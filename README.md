@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing Analysis on Kickstarter data to uncover trends - Module 1 Challenge
+Performing Analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
   For this project I am helping a playwriter, Louise, an up and coming playwrite who is looking to start a fundraising campaign for her project. She has a budget of $10,000, and is looking to find the best way and time to raise this money. In order to do this we must analyze previous fundraising campaigns all around the world in different areas of the arts, and try to determine the best method to go about raising money. This will include evaluating the time frames, location, and asking amount of each project, and determining whether or not it's viable for Louise to start a project at a given goal.
