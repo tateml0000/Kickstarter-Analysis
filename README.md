@@ -10,7 +10,7 @@ Here we will be looking at a few analysis and challenges that came along with th
 ### Analysis of Outcomes Based on Launch Date
 In this 2 part analysis we began by looking at the successful, failed, and caceled outcomes of theater campaigns. In the chart below, titled "Theater Outcomes Based on Launch Date", we can first note that very few campaigns were canceled regardless of the month. This could be due to a variety of factors, including faith in the fundraising, initial success, a reorganized plan, or a multitude of human factors that we may not be aware of. The next obvious trend to see is the success of campaigns in May. Although May also had the most amount of failed campaigns, only by 2 to July, we can see that the late summer into the early spring would be an optimal time to begin a campaign. 
 
-***Insert Image***
+![Graph of Outcomes Based on Launch Date](https://github.com/tateml0000/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 Some challenges while analyzing this data were fairly straight forward. We do not know the exact amount of each of the campaigns in may so an analysis further into this would be helpful. Comparing the success of each of these campaigns in goals as well as country would help us determine whether Louise's $10,000, US campaign would be viable, or maybe we should look into a different month where we may find less overall succeses, but the majority of those come in the US with a goal of around $10,000.
 
